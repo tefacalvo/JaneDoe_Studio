@@ -1,14 +1,14 @@
 # JaneDoe_Studio 💻
 Example of a responsive website building without a framework. I only used html and css.
 
-- Home
 ![Home](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-1.PNG)
+- Home
 
-- Projects
 ![Projects](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-3.PNG)
+- Projects
 
-- About (Mobile view)
 ![About](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-2.PNG)
+- About (Mobile view)
 
 # Images 📷 
 the images was taken from https://unsplash.com/
