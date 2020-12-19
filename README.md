@@ -13,7 +13,7 @@ Example of a responsive website building without a framework. I only used html a
 
 ![About](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-2.PNG)
 
-[link text](janedoe-studio.netlify.app)
+[Demo](janedoe-studio.netlify.app)
 
 # Images 📷 
 the images was taken from https://unsplash.com/
