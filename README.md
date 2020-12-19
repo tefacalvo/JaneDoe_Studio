@@ -5,10 +5,10 @@ Example of a responsive website building without a framework. I only used html a
 ![Home](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-1.PNG)
 
 - Projects
-![Projects](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-2.PNG)
+![Projects](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-3.PNG)
 
 - About (Mobile view)
-![About](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-3.PNG)
+![About](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-2.PNG)
 
 # Images 📷 
 the images was taken from https://unsplash.com/
