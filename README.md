@@ -5,7 +5,7 @@ Example of a responsive website building without a framework. I only used html a
 
 ![Home](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-1.PNG)
 
-- Projects
+- Portfolio
 
 ![Projects](https://github.com/tefacalvo/JaneDoe_Studio/blob/master/img/page-3.PNG)
 
