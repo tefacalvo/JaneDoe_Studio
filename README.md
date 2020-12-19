@@ -1,5 +1,5 @@
 # JaneDoe_Studio 💻
-Example of a responsive website building without a framework. I only used html and css.
+Example of a responsive website building without a framework. I only used html, css and a little JS.
 
 - Home
 
