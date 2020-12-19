@@ -19,3 +19,5 @@ the images was taken from https://unsplash.com/
 
 # Logo ✏️
 the logo was created in https://www.canva.com/
+
+custom: janedoe-studio.netlify.app
